@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "613974873507",
+    "firebase_url": "https://perucovidnews.firebaseio.com",
+    "project_id": "perucovidnews",
+    "storage_bucket": "perucovidnews.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613974873507:android:ad2fb051d43cce3b31f616",
+        "android_client_info": {
+          "package_name": "com.example.cardviewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613974873507-bhdsoa3hb75hjbleb9snss6nmukknph9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cardviewfirebase",
+            "certificate_hash": "541898a7770c34cb3dc569c5191ff23259c9b69e"
+          }
+        },
+        {
+          "client_id": "613974873507-bka74nnvlfsitf8s4pag6v669vtmhsu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGT5V9YpWDnmZbdpbajGj9APk1E9uX2zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613974873507-bka74nnvlfsitf8s4pag6v669vtmhsu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
